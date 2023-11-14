@@ -15,7 +15,7 @@
 ![screenshots](scr/scr4.png)
 ![screenshots](scr/scr5.png)
 
-добавлен файл file через сайт GitHub
+Добавлен файл file через сайт GitHub
 ![screenshots](scr/scr6.png)
 ![screenshots](scr/scr7.png)
 
@@ -62,3 +62,14 @@
 Создание ветки для отчета
 
 ![screenshots](scr/scr24.png)
+
+История операций
+
+![screenshots](scr/scr30.png)
+![screenshots](scr/scr31.png)
+
+История операций в упрощенном варианте
+![screenshots](scr/scr32.png)
+
+## Вывод
+Таким образом, я изучил базовые возможности системы управления версиями, получил: опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
