@@ -28,12 +28,37 @@
 ![screenshots](scr/scr11.png)
 
 И для ветки *branch1*
-
 ![screenshots](scr/scr12.png)
 
 Посмотрены последние изменения для ветки *master* 
 ![screenshots](scr/scr13.png)
 
 И для ветки *branch1*
-
 ![screenshots](scr/scr14.png)
+
+Выполнено слияние ветки *branch1* в ветку *master* 
+![screenshots](scr/scr15.png)
+
+Получен конфликт слияния. Разрешение конфликта.
+![screenshots](scr/scr16.png)
+![screenshots](scr/scr17.png)
+![screenshots](scr/scr18.png)
+
+Удаление побочной ветки
+
+![screenshots](scr/scr19.png)
+
+Подтверждение удаления
+
+![screenshots](scr/scr20.png)
+
+Сделал несколько изменений в файле с коммитами
+![screenshots](scr/scr21.png)
+
+Откат последнего коммита
+![screenshots](scr/scr22.png)
+![screenshots](scr/scr23.png)
+
+Создание ветки для отчета
+
+![screenshots](scr/scr24.png)
